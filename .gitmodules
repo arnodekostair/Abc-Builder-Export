@@ -1,0 +1,3 @@
+[submodule "Assets/Abc-Builder-Core"]
+	path = Assets/Abc-Builder-Core
+	url = https://github.com/arnodekostair/Abc-Builder-Core.git
