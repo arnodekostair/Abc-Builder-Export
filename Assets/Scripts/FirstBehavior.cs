@@ -9,6 +9,7 @@ public class FirstBehavior : MonoBehaviour {
     // Use this for initialization
     void Start ()
     {
+        myManager = new MyManager();
         myManager.AManagerMethod();	
 	}
 	
